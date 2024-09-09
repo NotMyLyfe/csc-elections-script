@@ -164,3 +164,4 @@ cython_debug/
 *.xlsx
 .DS_Store
 *.json
+*.csv
